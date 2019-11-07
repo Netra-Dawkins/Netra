@@ -36,10 +36,10 @@ Il s’occupe de mettre en place un stockage de données accessible par internet
 ### -	Consultant en Web Analytics
 C’est un observateur analyste qui doit mettre en place des outils et des indicateurs statistiques pour observer, analyser et interpréter des données de fréquentation d’un site web. A ce titre il est amené à travailler avec le Traffic Manager.
 
-# Langages de programmation
-En informatique, un langage de programmation est une notation destinée à formuler des algorithmes et à produire des programmes informatiques. Comme pour une langue naturelle, un langage de programmation possède un alphabet, un vocabulaire et des règles de grammaires.
 # Framework
 En programmation informatique, un framework est un ensemble cohérant de composants logiciels structurels, qui permet de créer et de modeler l’architecture de base d’un logiciel (ses fondations).
+# Langages de programmation
+En informatique, un langage de programmation est une notation destinée à formuler des algorithmes et à produire des programmes informatiques. Comme pour une langue naturelle, un langage de programmation possède un alphabet, un vocabulaire et des règles de grammaires.
 ### -	C 
 Le langage C est un langage de programmation développé par Dennis Ritchie et Bell Labs. Sa première version a vu le jours durant l’année 1972. Il s’inspire du langage de programmation B, mais avec des différences marquantes, comme la création des « types ». C’est un langage dit de bas niveau. Aujourd’hui, il sert principalement à réaliser les « fondations » (= compilateurs, interpréteurs, …) des langages plus modernes, mais il peut servir dans de nombreux domaines comme dans la création de jeux vidéo ou dans la programmation système par exemple. Pour développer des webservices et des API REST facilement en langage C, on utilise le framework Ulfius. 
 ### -	C++ 
@@ -79,3 +79,9 @@ Stack overflow est un site faisant partie du réseau de sites Stack Exchange. C�
 Jeuxvidéo.com est un site français créé en 1997. Il est spécialisé dans les jeux vidéo principalement, mais on peut également y retrouver un forum d’aide concernant le Hardware et aussi concernant la programmation sur tous types de langages. Ce forum fonctionne avec un système de questions/réponses.
 ### -	Commentcamarche
 Commentcamarche est un site français créé en 1999. Initialement il était prévu pour se renseigner sur les nouvelles technologies et sur les différents langages de programmation et de plus larges catégories sur le thème de l’informatique. Maintenant, le site contient plusieurs thèmes différents de l’informatique pour répondre aux questions des internautes. Cependant, il existe sur le site de nombreuses plateformes d’assistance sur différents thèmes concernant l’informatique. On peut donc se renseigner sur tous les sujets informatiques sur ce site.
+
+# IDE généraux
+### - Sublime text
+Sublime text est un éditeur de texte que l’on peut transformer en IDE grâce à des packages. C’est un IDE très basique et simple à comprendre, donc idéal pour les débutants. Il permet, grâce à son code couleur, de comprendre ce que l’on fait et de pouvoir s’y retrouver dans son travail. Il boost notre productivité grâce à des raccourcis claviers nombreux et intuitifs ainsi que des packages additionnels développés par la communauté.
+### - Visual Studio
+Cet IDE est un outil mutliplateforme créé par Microsoft et disponible en Open source. C’est un environnement multi langues léger. Il propose une architecture à base d’extensions et, étant léger, il peut être étendue par ajouts de composants successifs en fonctions de ses propres besoins : on peut se créer son propre environnement sur-mesure. Cet outil possède un moteur d’auto complétion de code puissant ainsi qu’une console de débogage et le logiciel s’interface par défaut avec le logiciel de gestion GIT.
